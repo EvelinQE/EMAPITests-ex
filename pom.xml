@@ -33,7 +33,7 @@
     </dependency>
     
     
-  </dependencies>
+  </dependency>
   
   <dependency>
     <groupId>jakarta.xml.bind</groupId>
