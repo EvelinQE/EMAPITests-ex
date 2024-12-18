@@ -35,6 +35,13 @@
     
   </dependencies>
   
+  <dependency>
+    <groupId>jakarta.xml.bind</groupId>
+    <artifactId>jakarta.xml.bind-api</artifactId>
+    <version>2.3.2</version>
+</dependency>
+
+  
   <build>
 		<plugins>
 		
